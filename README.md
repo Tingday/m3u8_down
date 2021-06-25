@@ -2,9 +2,9 @@
 python m3u8多线程下载，支持上百线程同时下载。
 
 ## 使用框架
-requests
-m3u8
-python3以上
+requests  
+m3u8  
+python3以上  
 
 ## 注意事项
 1.在目录下创建文件夹.ts 和 变量drama所命名的文件夹  
